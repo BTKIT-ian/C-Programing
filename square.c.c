@@ -7,4 +7,4 @@ main()
     printf("square  is %d",x*x);
 }
 
-/*for cube x*x*x  */
+/*   for cube we will take x*x*x  */
