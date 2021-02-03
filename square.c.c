@@ -4,6 +4,7 @@ main()
     int x;
     printf("number");
     scanf("%d",&x);
-    printf("square of %d is %d",x,x*x);
+    printf("square  is %d",x*x);
 }
 
+/*for cube x*x*x  */
