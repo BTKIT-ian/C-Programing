@@ -1,7 +1,6 @@
 
 	
-	 //Write a C program to input marks of five subjects Physics, Chemistry,
-//hindi, Mathematics and English. Calculate percentage and grade according to following:
+	 /* Write a C program to input marks of five subjects Physics, Chemistry,hindi, Mathematics and English. Calculate percentage and grade according to following: */
 
 #include<stdio.h>
 #include<conio.h>
@@ -11,7 +10,7 @@ void main()
 	char ch[32];
 	float per;
 	printf("\n enter name=");
-	scanf("%s",&ch);
+	scanf("%s",&ch); 
 	printf("\n enter rollno=");
 	scanf("%d",&rollno);
 	printf("\n enter age=");
